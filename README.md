@@ -8,4 +8,4 @@ In this study, we constructed brain connectivity profiles of HIV positive subjec
 
 We have demonstrated associations between imaging-derived graph-theoretic properties of brain networks with neuropsychological performance, provides opportunities to further investigate the evolution of HAND in larger, longitudinal studies. 
 
-The results from this study have been published at [Neuroimage Clinical] (https://www.sciencedirect.com/science/article/pii/S2213158217303054). Another manuscript detailing the regional differences in these subjects is currently under review. 
+The results from this study have been published at [Neuroimage Clinical](https://www.sciencedirect.com/science/article/pii/S2213158217303054). Another manuscript detailing the regional differences in these subjects is currently under review. 
