@@ -1,5 +1,5 @@
 # Connectivity_Analysis_in_HAND
-A simplified walkthrough of the steps and major results from my thesis project
+A simplified walkthrough of the steps and major results from my thesis project. This repository contains a MATLAB live script Project_Demo.mlx. The demo can be viewed in PDF format, or within MATLAB by running the script locally.
 
 
 HIV is capable of invading the brain soon after seroconversion. This ultimately can lead to deficits in multiple cognitive domains commonly referred to as HIV-associated neurocognitive disorders (HAND). Clinical diagnosis of such deficits requires detailed neuropsychological assessment but clinical signs may be difficult to detect during asymptomatic injury of the central nervous system (CNS). Therefore neuroimaging biomarkers are of particular interest in HAND. 
